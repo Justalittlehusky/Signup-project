@@ -1,0 +1,57 @@
+body{
+	background-color: #1e90ff;
+}
+
+main{
+	padding-top: 25px;
+}
+
+main h1{
+	font-family:  "monospace";
+	color:#757575;
+}
+
+li{
+	align:left;
+	list-style-type: none;
+}
+
+
+.logo{
+	height: 35px;
+	width: 15%;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	display:  block;
+	padding-left: 520px;
+}
+
+.center{
+	padding: 10px;
+	text-align: center;
+}
+
+.box{
+	margin: auto;
+	background-color: white; 
+	width: 400px;
+	height: 300px;
+	padding-right: 40px;
+	padding-left: 40px;
+
+}
+
+.input{
+	text-align: left;
+	width: 320px;
+}
+
+
+
+
+
+
+
+
+
+
